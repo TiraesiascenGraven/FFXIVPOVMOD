@@ -12,10 +12,11 @@
     "DalamudApiLevel": 10,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://example.com/path/to/release/output.zip",
-    "DownloadLinkTesting": "https://example.com/path/to/testing/output.zip",
-    "DownloadLinkUpdate": "https://example.com/path/to/release/output.zip",
+    "DownloadLinkInstall": "https://github.com/TiraesiascenGraven/POVMODDOWNLOAD/archive/refs/tags/Release.zip",
+    "DownloadLinkTesting": "https://github.com/TiraesiascenGraven/POVMODDOWNLOAD/archive/refs/tags/Release.zip",
+    "DownloadLinkUpdate": "https://github.com/TiraesiascenGraven/POVMODDOWNLOAD/archive/refs/tags/Release.zip",
     "LastUpdate": "1701231234",
 },
+
 
 
