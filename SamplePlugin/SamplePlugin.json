@@ -6,5 +6,15 @@
     "ApplicableVersion": "any",
     "Tags": [
         "POV"
-    ]
-}
+    ],
+    InternalName: 'ACustomPlugin',
+    RepoUrl: 'https://github.com/TiraesiascenGraven/FFXIVPOVMOD',
+    DalamudApiLevel: 10,
+    IsHide: false,
+    IsTestingExclusive: false,
+    DownloadLinkInstall: 'https://example.com/path/to/release/output.zip',
+    DownloadLinkTesting: 'https://example.com/path/to/testing/output.zip',
+    DownloadLinkUpdate: 'https://example.com/path/to/release/output.zip',
+    LastUpdate: '1701231234',
+},
+
