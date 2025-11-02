@@ -1,0 +1,10 @@
+{
+    "Author": "Tiraesias cen Graven",
+    "Name": "First Person POV Mod",
+    "Punchline": "Binds the Camera to the Players Head Bone (or any others)",
+    "Description": "Binds the Camera to the Players Head Bone (or any others)  \n\nUpcoming Features : Bind Camera Rotation to Bone \n\nIf there are any issues pls harass me on Twitter",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "POV"
+    ]
+}
